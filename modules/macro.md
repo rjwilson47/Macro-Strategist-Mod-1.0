@@ -13,9 +13,25 @@
 - **Inflation regime:** Disinflation, reflation, stagflation, goldilocks. Is it shifting?
 - **Central bank stance:** Fed, ECB, BoJ, BoE, PBoC as relevant. What is priced into OIS/futures? Where are rate expectations mispriced?
 - **Fiscal backdrop:** Expansionary, consolidation, structural shifts (industrial policy, defence spending).
+- **Consumer:** Retail sales trends, consumer confidence, household savings rate, credit card delinquencies, real wage growth. The consumer drives ~70% of US GDP — this cannot be a gap in a macro report.
+- **Housing:** Housing starts, existing home sales, mortgage rate environment, home price trajectory. Housing is a key monetary policy transmission mechanism.
+- **Labor market:** Payrolls trend, unemployment rate, JOLTS (openings, quits), wage growth, participation rate. Leading vs lagging signals.
+- **Earnings:** S&P 500 EPS growth rate, revision breadth (upgrades vs downgrades), margin trends. Which sectors are driving aggregate earnings? Disconnect between aggregate and sector-level?
 - **Key macro risks:** Geopolitical, political, financial stability, trade policy.
 - **Growth differentials:** Where is growth accelerating vs decelerating across regions?
 - **Credit conditions:** Financial conditions tightening or easing? What does this mean for the real economy?
+
+---
+
+## International Context
+
+Even for a US-focused macro report, address how the US outlook interacts with:
+- **Europe:** ECB policy divergence, growth differential, fiscal stance
+- **China:** Stimulus trajectory, property sector, demand for commodities
+- **Japan:** BoJ policy, yen dynamics
+- **EM broadly:** Dollar impact, capital flow implications
+
+This doesn't need to be a deep dive — 1-2 paragraphs covering the most material linkages. The Connection Map in the constitution flags these: dollar direction → EM, commodity supply → inflation → central bank response.
 
 ---
 

@@ -35,3 +35,12 @@
 
 ## Modules Remaining
 <!-- List. -->
+
+
+## Search Log
+<!-- Log key searches conducted, especially disconfirming/bear-case queries. This provides an audit trail. -->
+<!-- Format: [query] → [what was found / not found] -->
+
+### Bear-Case Searches
+<!-- Constitution requires 2–3 searches specifically seeking counterarguments. Log them here. -->
+<!-- Format: [query] → [finding] → [does this change the thesis?] -->
